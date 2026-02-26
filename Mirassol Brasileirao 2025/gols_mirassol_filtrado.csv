@@ -1,0 +1,64 @@
+partida_id,rodada,clube,atleta,minuto,tipo_de_gol,Período,Tempo
+8790,1,Mirassol,Lucas Ramon Batista Silva,45+3,Não Informado,Acréscimos 1º tempo,1º Tempo
+8802,2,Mirassol,Cristian Renato,90+3,Não Informado,Acréscimos 2º tempo,2º Tempo
+8810,3,Mirassol,Gabriel Santana,17,Não Informado,11-20,1º Tempo
+8819,4,Mirassol,Reinaldo Manoel da Silva,21,Penalty,21-30,1º Tempo
+8819,4,Mirassol,Reinaldo Manoel da Silva,78,Não Informado,71-80,2º Tempo
+8819,4,Mirassol,Daniel Borges,3,Não Informado,1-10,1º Tempo
+8819,4,Mirassol,Daniel Borges,85,Não Informado,81-90,2º Tempo
+8829,5,Mirassol,Reinaldo Manoel da Silva,72,Penalty,71-80,2º Tempo
+8829,5,Mirassol,Iury Lirio Freitas de Castilho,34,Não Informado,31-40,1º Tempo
+8837,6,Mirassol,Edson Carioca,12,Não Informado,11-20,1º Tempo
+8837,6,Mirassol,Reinaldo Manoel da Silva,90+2,Não Informado,Acréscimos 2º tempo,2º Tempo
+8859,8,Mirassol,Edson Carioca,50,Não Informado,41-50,2º Tempo
+8859,8,Mirassol,Gabriel Santana,65,Não Informado,61-70,2º Tempo
+8874,9,Mirassol,Jemmes,8,Não Informado,1-10,1º Tempo
+8877,10,Mirassol,Reinaldo Manoel da Silva,89,Penalty,81-90,2º Tempo
+8877,10,Mirassol,Gabriel Santana,53,Não Informado,51-60,2º Tempo
+8888,11,Mirassol,Reinaldo Manoel da Silva,34,Penalty,31-40,1º Tempo
+8916,14,Mirassol,Chico da Costa,72,Não Informado,71-80,2º Tempo
+8928,15,Mirassol,Chico da Costa,69,Não Informado,61-70,2º Tempo
+8928,15,Mirassol,Reinaldo Manoel da Silva,73,Não Informado,71-80,2º Tempo
+8928,15,Mirassol,Cristian Renato,90+2,Não Informado,Acréscimos 2º tempo,2º Tempo
+8937,16,Mirassol,Negueba,22,Não Informado,21-30,1º Tempo
+8937,16,Mirassol,Chico da Costa,16,Não Informado,11-20,1º Tempo
+8949,17,Mirassol,Edson Carioca,6,Não Informado,1-10,1º Tempo
+8957,18,Mirassol,Negueba,51,Não Informado,51-60,2º Tempo
+8957,18,Mirassol,Chico da Costa,58,Não Informado,51-60,2º Tempo
+8957,18,Mirassol,Alesson,83,Não Informado,81-90,2º Tempo
+8968,19,Mirassol,Gabriel Santana,73,Não Informado,71-80,2º Tempo
+8985,20,Mirassol,Negueba,65,Não Informado,61-70,2º Tempo
+8992,21,Mirassol,Edson Carioca,17,Não Informado,11-20,1º Tempo
+9002,22,Mirassol,Alesson,59,Não Informado,51-60,2º Tempo
+9002,22,Mirassol,João Victor,2,Não Informado,1-10,1º Tempo
+9002,22,Mirassol,Cristian Renato,75,Não Informado,71-80,2º Tempo
+9002,22,Mirassol,Chico da Costa,22,Não Informado,21-30,1º Tempo
+9002,22,Mirassol,Lucas Ramon Batista Silva,30,Não Informado,21-30,1º Tempo
+9007,23,Mirassol,Alesson,45,Não Informado,41-50,1º Tempo
+8902,12,Mirassol,Chico da Costa,46,Não Informado,41-50,2º Tempo
+8902,12,Mirassol,Jemmes,58,Não Informado,51-60,2º Tempo
+8902,12,Mirassol,Lucas Ramon Batista Silva,61,Não Informado,61-70,2º Tempo
+9020,24,Mirassol,Reinaldo Manoel da Silva,34,Não Informado,31-40,1º Tempo
+9020,24,Mirassol,Cristian Renato,45+2,Não Informado,Acréscimos 1º tempo,1º Tempo
+9038,26,Mirassol,Reinaldo Manoel da Silva,75,Não Informado,71-80,2º Tempo
+8914,13,Mirassol,Guilherme,36,Não Informado,31-40,1º Tempo
+8914,13,Mirassol,Negueba,86,Não Informado,81-90,2º Tempo
+9058,28,Mirassol,Reinaldo Manoel da Silva,45+4,Não Informado,Acréscimos 1º tempo,1º Tempo
+9058,28,Mirassol,Negueba,49,Não Informado,41-50,2º Tempo
+9058,28,Mirassol,Neto,26,Não Informado,21-30,1º Tempo
+9070,29,Mirassol,Alesson,1,Não Informado,1-10,1º Tempo
+9070,29,Mirassol,Reinaldo Manoel da Silva,35,Penalty,31-40,1º Tempo
+9070,29,Mirassol,Carlos Eduardo Ferreira de Souza,69,Penalty,61-70,2º Tempo
+9079,30,Mirassol,Negueba,28,Não Informado,21-30,1º Tempo
+9079,30,Mirassol,Guilherme,47,Não Informado,41-50,2º Tempo
+9115,33,Mirassol,João Victor,45+2,Não Informado,Acréscimos 1º tempo,1º Tempo
+9115,33,Mirassol,Gabriel Santana,2,Não Informado,1-10,1º Tempo
+9128,34,Mirassol,Reinaldo Manoel da Silva,61,Penalty,61-70,2º Tempo
+9143,35,Mirassol,Reinaldo Manoel da Silva,23,Não Informado,21-30,1º Tempo
+9143,35,Mirassol,Alesson,77,Não Informado,71-80,2º Tempo
+9143,35,Mirassol,Negueba,3,Não Informado,1-10,1º Tempo
+9118,37,Mirassol,Renato Marques,70,Não Informado,61-70,2º Tempo
+9118,37,Mirassol,Carlos Eduardo Ferreira de Souza,90+3,Não Informado,Acréscimos 2º tempo,2º Tempo
+9156,38,Mirassol,Chico,13,Não Informado,11-20,1º Tempo
+9156,38,Mirassol,Alesson,41,Não Informado,41-50,1º Tempo
+9156,38,Mirassol,Cristian Renato,65,Não Informado,61-70,2º Tempo

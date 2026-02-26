@@ -1,0 +1,39 @@
+ID,rodada,data,hora,mandante,visitante,formacao_mandante,formacao_visitante,tecnico_mandante,tecnico_visitante,vencedor,arena,mandante_Placar,visitante_Placar,mandante_Estado,visitante_Estado,arrecadacao,resultado,localidade,adversario
+8790,1,29/03/2025,18:31,Cruzeiro,Mirassol,4-2-2-2,4-2-3-1,T. Tite,R. Guanaes,Cruzeiro,"Mineirão, Belo Horizonte",2,1,MG,SP,"2089452,0",Derrota,Fora,Cruzeiro
+8802,2,06/04/2025,18:30,Mirassol,Fortaleza,4-2-3-1,4-2-3-1,R. Guanaes,T. Carpini,Empate,"Campos Maia, Mirassol",1,1,SP,CE,"113360,0",Empate,Casa,Fortaleza
+8810,3,13/04/2025,16:02,Bahia,Mirassol,4-3-3,4-2-3-1,R. Ceni,R. Guanaes,Empate,"Arena Fonte Nova, Salvador",1,1,BA,SP,"1323694,0",Empate,Fora,Bahia
+8819,4,16/04/2025,19:00,Mirassol,Gremio,4-2-3-1,4-2-3-1,R. Guanaes,L. Castro,Mirassol,"Campos Maia, Mirassol",4,1,SP,RS,"124740,0",Vitória,Casa,Gremio
+8829,5,20/04/2025,11:04,Juventude,Mirassol,4-3-3,4-3-3,M. Barbieri,R. Guanaes,Empate,"Alfredo Jaconi, Caxias do Sul",2,2,RS,SP,"175570,0",Empate,Fora,Juventude
+8837,6,26/04/2025,18:31,Mirassol,Atletico-MG,4-3-3,4-4-2,R. Guanaes,J. Sampaoli,Empate,"Campos Maia, Mirassol",2,2,SP,MG,"205180,0",Empate,Casa,Atletico-MG
+8854,7,05/05/2025,19:01,Bragantino,Mirassol,4-2-3-1,4-3-3,V. Mancini,R. Guanaes,Bragantino,"Estádio Municipal Cicero De Souza Marques, Bragança Paulista",1,0,SP,SP,"173040,0",Derrota,Fora,Bragantino
+8859,8,10/05/2025,18:31,Mirassol,Corinthians,4-2-3-1,4-4-2,R. Guanaes,D. Junior,Mirassol,"Campos Maia, Mirassol",2,1,SP,SP,"1170660,0",Vitória,Casa,Corinthians
+8874,9,18/05/2025,20:30,Internacional,Mirassol,4-3-2-1,4-3-3,R. Díaz,R. Guanaes,Empate,"Estádio Beira-Rio, Porto Alegre",1,1,RS,SP,"596180,0",Empate,Fora,Internacional
+8877,10,24/05/2025,18:31,Sao Paulo,Mirassol,4-2-3-1,4-2-3-1,H. Crespo,R. Guanaes,Mirassol,"MorumBIS, São Paulo",0,2,SP,SP,"1831001,0",Vitória,Fora,Sao Paulo
+8888,11,01/06/2025,11:00,Mirassol,Sport,4-2-3-1,3-4-2-1,R. Guanaes,C. de Lucena,Mirassol,"Campos Maia, Mirassol",1,0,SP,PE,"112680,0",Vitória,Casa,Sport
+8916,14,16/07/2025,19:01,Palmeiras,Mirassol,4-2-3-1,4-2-3-1,A. Ferreira,R. Guanaes,Empate,"Allianz Parque, São Paulo",1,1,SP,SP,"2115948,15",Empate,Fora,Palmeiras
+8928,15,19/07/2025,18:32,Mirassol,Santos,4-3-3,4-2-3-1,R. Guanaes,J. Vojvoda,Mirassol,"Campos Maia, Mirassol",3,0,SP,SP,"1087280,0",Vitória,Casa,Santos
+8937,16,23/07/2025,19:01,Ceara,Mirassol,4-2-3-1,4-3-3,M. Mozart,R. Guanaes,Mirassol,"Arena Castelão, Fortaleza",0,2,CE,SP,"238353,0",Vitória,Fora,Ceara
+8949,17,26/07/2025,18:30,Mirassol,Vitoria,4-2-3-1,4-2-3-1,R. Guanaes,J. Ventura,Empate,"Campos Maia, Mirassol",1,1,SP,BA,"92940,0",Empate,Casa,Vitoria
+8957,18,02/08/2025,18:30,Mirassol,Vasco,4-3-3,4-2-3-1,R. Guanaes,F. Diniz,Mirassol,"Campos Maia, Mirassol",3,2,SP,RJ,"202180,0",Vitória,Casa,Vasco
+8968,19,09/08/2025,18:30,Flamengo,Mirassol,4-2-3-1,4-2-3-1,F. Luís,R. Guanaes,Flamengo,"Maracanã, Rio de Janeiro",2,1,RJ,SP,"4289937,5",Derrota,Fora,Flamengo
+8985,20,18/08/2025,20:02,Mirassol,Cruzeiro,4-2-3-1,4-2-3-1,R. Guanaes,T. Tite,Empate,"Campos Maia, Mirassol",1,1,SP,MG,"247960,0",Empate,Casa,Cruzeiro
+8992,21,24/08/2025,18:31,Fortaleza,Mirassol,4-4-2,4-3-3,T. Carpini,R. Guanaes,Mirassol,"Arena Castelão, Fortaleza",0,1,CE,SP,"176594,0",Vitória,Fora,Fortaleza
+9002,22,31/08/2025,18:30,Mirassol,Bahia,4-3-3,4-2-3-1,R. Guanaes,R. Ceni,Mirassol,"Campos Maia, Mirassol",5,1,SP,BA,"140580,0",Vitória,Casa,Bahia
+9007,23,13/09/2025,16:00,Gremio,Mirassol,4-3-1-2,4-3-3,L. Castro,R. Guanaes,Mirassol,"Arena do Grêmio, Porto Alegre",0,1,RS,SP,"2675320,0",Vitória,Fora,Gremio
+8902,12,17/09/2025,19:30,Botafogo-RJ,Mirassol,4-2-3-1,4-3-3,Davide Ancelotti,Rafael Silva Guanaes,Empate,"Estádio Nilton Santos, Rio de Janeiro",3,3,RJ,SP,"381240,0",Empate,Fora,Botafogo-RJ
+9020,24,21/09/2025,16:00,Mirassol,Juventude,4-3-3,4-4-2,R. Guanaes,M. Barbieri,Mirassol,"Campos Maia, Mirassol",2,0,SP,RS,"112200,0",Vitória,Casa,Juventude
+9029,25,27/09/2025,21:00,Atletico-MG,Mirassol,3-4-1-2,4-3-3,J. Sampaoli,R. Guanaes,Atletico-MG,"Arena MRV, Belo Horizonte",1,0,MG,SP,"885689,88",Derrota,Fora,Atletico-MG
+9038,26,01/10/2025,19:00,Mirassol,Bragantino,4-2-3-1,4-2-3-1,R. Guanaes,V. Mancini,Empate,"Campos Maia, Mirassol",1,1,SP,SP,"104360,0",Empate,Casa,Bragantino
+9049,27,04/10/2025,21:00,Corinthians,Mirassol,4-3-1-2,4-3-3,D. Junior,R. Guanaes,Corinthians,"Neo Química Arena, São Paulo",3,0,SP,SP,"2727985,4",Derrota,Fora,Corinthians
+8914,13,08/10/2025,21:00,Mirassol,Fluminense,4-1-2-1-2,4-2-3-1,R. Guanaes,L. Luis Zubeldia,Mirassol,"Campos Maia, Mirassol",2,1,SP,RJ,"153760,0",Vitória,Casa,Fluminense
+9058,28,15/10/2025,20:00,Mirassol,Internacional,4-2-3-1,3-4-2-1,R. Guanaes,R. Díaz,Mirassol,"Campos Maia, Mirassol",3,1,SP,RS,"147920,0",Vitória,Casa,Internacional
+9070,29,19/10/2025,18:31,Mirassol,Sao Paulo,4-3-3,3-4-1-2,R. Guanaes,H. Crespo,Mirassol,"Campos Maia, Mirassol",3,0,SP,SP,"636980,0",Vitória,Casa,Sao Paulo
+9079,30,25/10/2025,18:30,Sport,Mirassol,4-2-3-1,4-3-3,C. de Lucena,R. Guanaes,Mirassol,"Adelmar da Costa Carvalho, Recife",1,2,PE,SP,"216200,0",Vitória,Fora,Sport
+9088,31,01/11/2025,18:00,Mirassol,Botafogo-RJ,4-3-3,4-2-3-1,Rafael Silva Guanaes,Davide Ancelotti,Empate,"Campos Maia, Mirassol",0,0,SP,RJ,"181320,0",Empate,Casa,Botafogo-RJ
+9103,32,06/11/2025,19:30,Fluminense,Mirassol,4-2-3-1,4-2-3-1,L. Luis Zubeldia,R. Guanaes,Fluminense,"Maracanã, Rio de Janeiro",1,0,RJ,SP,"595653,5",Derrota,Fora,Fluminense
+9115,33,09/11/2025,20:30,Mirassol,Palmeiras,4-3-3,4-4-2,R. Guanaes,A. Ferreira,Mirassol,"Campos Maia, Mirassol",2,1,SP,SP,"1207940,0",Vitória,Casa,Palmeiras
+9128,34,19/11/2025,21:32,Santos,Mirassol,4-3-3,4-3-3,J. Vojvoda,R. Guanaes,Empate,"Estádio Urbano Caldeira, Santos",1,1,SP,SP,"767026,25",Empate,Fora,Santos
+9143,35,24/11/2025,20:16,Mirassol,Ceara,4-3-3,4-2-3-1,R. Guanaes,M. Mozart,Mirassol,"Campos Maia, Mirassol",3,0,SP,CE,"127820,0",Vitória,Casa,Ceara
+9153,36,29/11/2025,16:01,Vitoria,Mirassol,3-4-3,4-2-3-1,J. Ventura,R. Guanaes,Vitoria,"Barradão, Salvador",2,0,BA,SP,"678873,0",Derrota,Fora,Vitoria
+9118,37,02/12/2025,19:01,Vasco,Mirassol,4-2-3-1,4-2-3-1,F. Diniz,R. Guanaes,Mirassol,"Estádio São Januário, Rio de Janeiro",0,2,RJ,SP,"1300947,0",Vitória,Fora,Vasco
+9156,38,06/12/2025,18:32,Mirassol,Flamengo,4-4-2,4-2-3-1,R. Guanaes,F. Luís,Empate,"Campos Maia, Mirassol",3,3,SP,RJ,"1258100,0",Empate,Casa,Flamengo
